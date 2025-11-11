@@ -1,0 +1,13 @@
+{
+  "start_url": "https://www.seloger.com/list.htm?tri=initial&exceptnew=true&price=NaN%2FNaN&naturebien=1,2&LISTING-LISTpg=1",
+  "inputs_file": "data/inputs.sample.txt",
+  "deep_scrape": false,
+  "delta_mode": false,
+  "output_format": "json",
+  "output_path": "data/output.json",
+  "previous_output_path": "data/sample_output.json",
+  "max_results": 50,
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36",
+  "timeout": 25,
+  "max_workers": 8
+}
