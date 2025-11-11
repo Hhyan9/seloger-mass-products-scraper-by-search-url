@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Appartement 3 pièces à Marseille",
+    "description": "Charmant appartement lumineux de 70m² avec balcon et vue dégagée.",
+    "price": 285000,
+    "location": "Marseille 8e, Provence-Alpes-Côte d’Azur",
+    "photos": [
+      "https://www.seloger.com/photos/12345_1.jpg",
+      "https://www.seloger.com/photos/12345_2.jpg"
+    ],
+    "energy_info": "Classe D",
+    "construction_date": "2015",
+    "publisher_name": "Agence du Sud",
+    "publisher_email": "contact@agencedusud.fr",
+    "publisher_phone": "+33 4 91 23 45 67",
+    "nearby_transport": [
+      "Métro Périer - 400m",
+      "Bus 83 - 250m"
+    ],
+    "url": "https://www.seloger.com/annonces/achat/appartement/marseille-8eme-13/12345.htm",
+    "scraped_at": "2025-11-11T08:00:00Z"
+  }
+]
